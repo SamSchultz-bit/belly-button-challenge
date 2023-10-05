@@ -94,9 +94,8 @@ function bubbleChart(sample) {
 
         let layout = {
             title: "Bacteria Per Sample",
-            plot_bgcolor: "lightgray",
             hovermode: "closest",
-            xaxis: {title: "OTU ID"},
+            title: "OTU ID",
         };
 
         Plotly.newPlot("bubble", [trace], layout)
