@@ -1,7 +1,7 @@
 # belly-button-challenge
 Module 14 Challenge for UM Bootcamp
 
-Visit the site: #######################
+Visit the site: https://samschultz-bit.github.io/belly-button-challenge/
 
 # Background
 This challenge concerns data from the Belly Button Biodiversity dataset. My challenge was to create a dashboard to display a bar chart and bubble chart to visualize the number and strain of bacteria in samples taken from each test subject. It also displays demographic information and allows a user to switch between test subjects.
